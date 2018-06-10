@@ -1,0 +1,14 @@
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\bin\Debug\DocumentIconDemo.exe.config
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\bin\Debug\DocumentIconDemo.exe
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\bin\Debug\DocumentIconDemo.pdb
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\DocumentIconDemo.csprojResolveAssemblyReference.cache
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\MainWindow.baml
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\MainWindow.g.cs
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\App.g.cs
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\DocumentIconDemo_MarkupCompile.cache
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\DocumentIconDemo.g.resources
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\DocumentIconDemo.Properties.Resources.resources
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\DocumentIconDemo.csproj.GenerateResource.cache
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\DocumentIconDemo.exe
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\DocumentIconDemo.pdb
+C:\Users\bsmart\Documents\Visual Studio 2015\Projects\DocumentIconDemo\DocumentIconDemo\obj\Debug\DocumentIconDemo.csproj.CoreCompileInputs.cache
